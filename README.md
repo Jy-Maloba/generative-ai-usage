@@ -12,7 +12,7 @@ The dashboard is built using **Streamlit**, **Pandas**, **Plotly**, **Matplotlib
 
 ---
 
-## ✨ Features
+## Features
 
 ### Dataset Overview
 
